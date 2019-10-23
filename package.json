@@ -1,0 +1,16 @@
+{
+  "name": "violet-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jimil Patel <jimiljojo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nforce": "^1.12.2",
+    "violet": "^1.0.3"
+  }
+}
