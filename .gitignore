@@ -1,3 +1,4 @@
+node_modules/*
 # ------------------------------------------------------------------------------ #
 # Java defaults (https://github.com/github/gitignore/blob/master/Java.gitignore) #
 # ------------------------------------------------------------------------------ #
@@ -25,6 +26,7 @@ local.properties
 .loadpath
 .project
 .classpath
+
 
 # External tool builders
 .externalToolBuilders/
